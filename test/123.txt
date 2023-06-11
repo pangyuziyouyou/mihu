@@ -1,4 +1,4 @@
-{ "urls": [{ "url": "https://github.com/pangyuziyouyou/mihu/tree/main/test/%E9%A5%AD%E5%A4%AA%E7%A1%AC/api.json", "name": "饭太硬" },
+{ "urls": [{ "url": "https://github.com/pangyuziyouyou/mihu/tree/main/test/饭太硬/api.json", "name": "饭太硬" },
 
 { "url": "clan://localhost/test/多多/api.json", "name": "多多" },
 
