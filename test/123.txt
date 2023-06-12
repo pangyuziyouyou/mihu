@@ -1,4 +1,4 @@
-{ "urls": [{ "url": "aHR0cHM6Ly9naXRodWIuY29tL3Bhbmd5dXppeW91eW91L21paHUvYmxvYi9tYWluL3Rlc3QvZmFudGFpeWluZy9hcGkuanNvbg==", "name": "饭太硬" },
+{ "urls": [{ "url": "http://饭太硬.top/tv", "name": "饭太硬" },
 
 { "url": "clan://localhost/test/多多/api.json", "name": "多多" },
 
