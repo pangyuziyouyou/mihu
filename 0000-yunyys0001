@@ -198,13 +198,13 @@
 
 //官源
 
-{"key":"优酷","name":"🆒云熠┃太酷啦","type":3,"api":"https://xhdwc.tk/lib/drpy2.min.js","ext":"http://Television0.nbbihaijiujiu.cn/app/js/youku.js"},
+{"key":"优酷","name":"🆒云熠┃太酷啦","type":3,"api":"https://xhdwc.tk/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/pangyuziyouyou/mihu/main/js/youku.js"},
 
-{"key":"搜狗","name":"🐶云熠┃狗狗","type":3,"api":"https://xhdwc.tk/lib/drpy2.min.js","ext":"http://Television0.nbbihaijiujiu.cn/app/js/sougou.js"},
+{"key":"搜狗","name":"🐶云熠┃狗狗","type":3,"api":"https://xhdwc.tk/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/pangyuziyouyou/mihu/main/js/sougou.js"},
 
-{"key":"360","name":"🍕数字┃大厂","type":3,"api":"https://xhdwc.tk/lib/drpy2.min.js","ext":"http://Television0.nbbihaijiujiu.cn/app/js/360.js"},
+{"key":"360","name":"🍕数字┃大厂","type":3,"api":"https://xhdwc.tk/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/pangyuziyouyou/mihu/main/js/360.js"},
 
-{"key":"Qtv","name":"云熠┃会飞的北极鸟","type":3,"api":"csp_Qtv","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"jar": "https://jihulab.com/yunyi-box/yunyi-television0/-/raw/main/Js/cfj4.jar"},
+{"key":"Qtv123","name":"云熠┃会飞的北极鸟","type":3,"api":"csp_Qtv","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"jar": "https://raw.githubusercontent.com/pangyuziyouyou/mihu/main/js/JS/cfj4.jar"},
 
 {"key":"js_奇异","name":"🥝云熠┃好果子","type":3,"api":"https://xhdwc.tk/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/duomv/duox/-/raw/main/js/qzys.js"},
 
