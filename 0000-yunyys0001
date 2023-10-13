@@ -3,7 +3,7 @@
 
 {
 
-"spider":"https://jihulab.com/yunyi-box/yunyi-television0/-/raw/main/Js/fan1.jar;md5;18b8df1e0f7813098c1e70979a264aad",
+"spider":"https://ghproxy.com/https://jihulab.com/yunyi-box/yunyi-television0/-/raw/main/Js/fan1.jar;md5;18b8df1e0f7813098c1e70979a264aad",
 
 
 //壁纸
@@ -139,7 +139,7 @@
 
 {"key":"AD","name":"💡云熠┃线路4","type":3,"api":"csp_AppYsV2","ext":"https://aidiapp.xyz/xgapp.php/v2/","jar": "https://jihulab.com/yunyi-box/yunyi-television0/-/raw/main/Js/x1.jar;md5;8b4d7815240224e910848d075a884058"},
 
-{"key":"NG","name":"🎃云熠┃线路5","type":3,"api":"https://xhdwc.tk/lib/drpy2.min.js","ext":"http://television0.nbbihaijiujiu.cn/app/js/南瓜.js"},
+{"key":"NG","name":"🎃云熠┃线路5","type":3,"api":"https://xhdwc.tk/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/pangyuziyouyou/mihu/main/js/南瓜.js"},
 
 {"key":"zxzj","name":"云熠┃线路6","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzj.pro/"},
 
