@@ -12,7 +12,13 @@
             "url": "https://jihulab.com/yunyi-box/yunyi-television0/-/raw/main/interface/0000-yunyys0001.json",
             "name": "云熠影视备用线路2"
         },
-		
+
+         {
+            "url": "https://raw.githubusercontent.com/pangyuziyouyou/mihu/main/interface/RAW/yunyi/0000-yunyys0001",
+            "name": "云熠影视备用线路2"
+        },
+
+
          {
             "url": "https://gitee.com/tvboxlist/yunyi/raw/master/interface/00-yunyiys01.json",
             "name": "云熠影视备用线路3"
