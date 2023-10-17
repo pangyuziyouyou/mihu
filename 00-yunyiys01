@@ -26,7 +26,7 @@
 
 
 //提示
-//"warningText":"💖云熠影视提醒：每次打开记得长按主页刷新💖。",
+//"warningText":"💖碧云影视提醒：每次打开记得长按主页刷新💖。",
 
 
 
@@ -38,33 +38,33 @@
 
 {"key":"豆瓣","name":"豆瓣┃推荐","type":3,"api":"https://drpy.cainisi.cf/libs/drpy2.min.js","searchable":0,"changeable":0,"ext":"https://drpy.cainisi.cf/js/drpy.js"},
 
-{"key":"csp_骚火","name":"云熠┃线路19-NEW","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://bitbucket.org/xduo/json/raw/master/骚火电影.json"},
+{"key":"csp_骚火","name":"碧云┃线路19-NEW","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://bitbucket.org/xduo/json/raw/master/骚火电影.json"},
 
-{"key":"csp_xml_BF","name":"云熠┃🌊线路1","type":1,"api":"https://bfzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"categories":["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","纪录片","国产剧","欧美剧","犯罪片","香港剧","韩国剧","台湾剧","日本剧","海外剧","其他片","悬疑片","奇幻片","动画片","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
+{"key":"csp_xml_BF","name":"碧云┃🌊线路1","type":1,"api":"https://bfzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"categories":["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","纪录片","国产剧","欧美剧","犯罪片","香港剧","韩国剧","台湾剧","日本剧","海外剧","其他片","悬疑片","奇幻片","动画片","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
 
-{"key":"zxzj","name":"云熠┃线路6","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzj.pro/"},
+{"key":"zxzj","name":"碧云┃线路6","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzj.pro/"},
 
-//{"key":"毛驴","name":"云熠┃线路7","type":3,"api":"csp_MLYS","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.maolvys.com/"},
+//{"key":"毛驴","name":"碧云┃线路7","type":3,"api":"csp_MLYS","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.maolvys.com/"},
 
-{"key":"Xinsj","name":"云熠┃线路8","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.6080yy3.com/"},
+{"key":"Xinsj","name":"碧云┃线路8","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.6080yy3.com/"},
 
-{"key":"率率","name":"云熠┃线路9","type":1,"api":"https://suoniapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"changeable":1,"categories":["国产剧","韩剧","日剧","港剧","台剧","动作片","喜剧片","爱情片","科幻片","战争片","恐怖片","剧情片","国产动漫","日韩动漫","欧美动漫","大陆综艺","日韩综艺"]},
+{"key":"率率","name":"碧云┃线路9","type":1,"api":"https://suoniapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"changeable":1,"categories":["国产剧","韩剧","日剧","港剧","台剧","动作片","喜剧片","爱情片","科幻片","战争片","恐怖片","剧情片","国产动漫","日韩动漫","欧美动漫","大陆综艺","日韩综艺"]},
 
-{"key":"AppMr","name":"👻云熠┃线路10","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"AppMr","name":"👻碧云┃线路10","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"changeable":1},
 
-//{"key":"csp_appysv2_miniku","name":"云熠┃线路11-new","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"},
+//{"key":"csp_appysv2_miniku","name":"碧云┃线路11-new","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"},
 
-{"key":"非凡","name":"云熠┃线路12","type":"0","api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable":"1","changeable":"0","categories":["国产动漫","日韩动漫","国产剧","韩国剧","日本剧","电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","香港剧","欧美剧","记录片","台湾剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","欧美动漫","港台动漫","海外动漫"]},
+{"key":"非凡","name":"碧云┃线路12","type":"0","api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable":"1","changeable":"0","categories":["国产动漫","日韩动漫","国产剧","韩国剧","日本剧","电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","香港剧","欧美剧","记录片","台湾剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","欧美动漫","港台动漫","海外动漫"]},
 
-{"key":"csp_xml_量子资源","name":"云熠┃线路13","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"categories":["国产动漫","国产剧","动作片","喜剧片","爱情片","动画片","冒险片","武侠片","科幻片","战争片","日韩剧","港台剧","欧美剧","泰国剧","海外剧","日韩动漫","欧美动漫","国内综艺","海外综艺","恐怖片","灾难片","悬疑片","纪录片","惊悚片","奇幻片","剧情片"]},
+{"key":"csp_xml_量子资源","name":"碧云┃线路13","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"categories":["国产动漫","国产剧","动作片","喜剧片","爱情片","动画片","冒险片","武侠片","科幻片","战争片","日韩剧","港台剧","欧美剧","泰国剧","海外剧","日韩动漫","欧美动漫","国内综艺","海外综艺","恐怖片","灾难片","悬疑片","纪录片","惊悚片","奇幻片","剧情片"]},
 
-{"key":"csp_Bttoo","name":"云熠┃线路14-NEW","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Bttoo","name":"碧云┃线路14-NEW","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"Lib","name":"云熠┃线路15-NEW","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.libvio.pro/"},
+{"key":"Lib","name":"碧云┃线路15-NEW","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.libvio.pro/"},
 
-//{"key":"Cokemv","name":"云熠┃线路16-NEW","type":3,"api":"csp_Cokemv","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+//{"key":"Cokemv","name":"碧云┃线路16-NEW","type":3,"api":"csp_Cokemv","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 
-{"key":"Vofl","name":"云熠┃线路17-NEW","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"Vofl","name":"碧云┃线路17-NEW","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"changeable":1},
 
 
 
@@ -96,7 +96,7 @@
 
 //官源
 
-{"key":"Qtv","name":"🐧云熠┃得等它飞一会","type":3,"api":"csp_Qtv","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
+{"key":"Qtv","name":"🐧碧云┃得等它飞一会","type":3,"api":"csp_Qtv","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 
 //阿里
 {"key":"玩偶","name":"YUNY┃玩偶2","type":3,"api":"csp_Wogg","searchable":1,"changeable":0,"ext":{"token":"影視天下第一","filter":"https://tvbox.cainisi.cf/json/wogg.json"},"jar":"https://tvbox.cainisi.cf/jar/fm0926.jar;md5;08e60753eb29394b75c088e1f06dfb17"},
@@ -234,8 +234,6 @@
 
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"聚合嗅探0","type":3,"url":"Web"},
-
-{"name":"解析0+","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
   
 {"name":"解析1+","type":1,"url":"http://42.157.128.109:2323/CH/app/tv.php?url="},
         
