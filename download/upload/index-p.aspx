@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <result>
-   <VersionCode>83</VersionCode>
+   <VersionCode>82</VersionCode>
    <MustUpdate>1</MustUpdate>
    <VersionMemo>
    <![CDATA[版本主要更新：1.添加升级组件。
