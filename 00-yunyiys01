@@ -14,7 +14,7 @@
 "lives":[ 
 {
       "name": "live",
-      "url": "https://jihulab.com/yunyi-box/yunyi-television0/-/raw/main/Js/JS/live.txt",
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/pangyuziyouyou/mihu/main/interface/RAW/tv.txt",
       "type": 0,
       "playerType": 1,
       "ua": "okhttp/3.12.13",
