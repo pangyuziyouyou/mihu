@@ -26,7 +26,7 @@
 
 
 //提示
-"warningText":"警告：首次更新请重新点击配置进行重新配置。",
+"warningText":"警告：首次更新请重置APP再使用。",
 
 
 
@@ -36,7 +36,7 @@
 
  {
             "key": "YX", 
-            "name":  "\n★更新完后请重新点击配置（重新配置）",
+            "name":  "更新完后请点设置-重置APP-配置-确定",
             "type": 3, 
             "api": "csp_AppYsV", 
             "searchable": 1, 
