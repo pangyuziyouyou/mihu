@@ -7,6 +7,6 @@
                           2.升级后，请重置APP，再次点配置-确定，重新配置。]]>
    </VersionMemo>
    <DownloadUrl>
-   <![CDATA[http://211.101.247.62:10999/down/QJ4dAflba5cR.apk]]>
+   <![CDATA[http://211.101.247.62:10999/down/CA2Op961bj13.apk]]>
    </DownloadUrl>
 </result>
