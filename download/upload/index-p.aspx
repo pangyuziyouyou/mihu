@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <result>
-   <VersionCode>82</VersionCode>
+   <VersionCode>83</VersionCode>
    <MustUpdate>1</MustUpdate>
    <VersionMemo>
-   <![CDATA[版本主要更新：1.添加升级组件。
-                          2.加入仓库概念，以便更好的维护线路。]]>
+   <![CDATA[版本主要更新：1.修复打不开问题。
+                          2.升级后，请重置APP，再次点配置-确定，重新配置。]]>
    </VersionMemo>
    <DownloadUrl>
-   <![CDATA[http://Television0.nbbihaijiujiu.cn/download/upload/%E4%BA%91%E7%86%A0%E5%BD%B1%E8%A7%86Pro5.03-1.apk]]>
+   <![CDATA[http://211.101.247.62:10999/down/QJ4dAflba5cR.apk]]>
    </DownloadUrl>
 </result>
